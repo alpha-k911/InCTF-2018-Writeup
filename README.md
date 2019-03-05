@@ -11,4 +11,4 @@
 #### Team Members:
 1.Aditya Gupta 
 2.Divyanshu Mehta 
-3.Nandishwar Kalaru
+3.Nandishwar
